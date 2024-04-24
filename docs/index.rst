@@ -1,16 +1,18 @@
-.. olaf doc documentation master file, created by
-   sphinx-quickstart on Tue Apr 23 13:40:50 2024.
+.. Doc Gen documentation master file, created by
+   sphinx-quickstart on Wed Apr 24 14:37:28 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to olaf doc's documentation!
-====================================
+Welcome to Doc Gen's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    modules
+
+
 
 Indices and tables
 ==================

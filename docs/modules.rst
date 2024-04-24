@@ -1,7 +1,7 @@
-src
-===
+olaf
+====
 
 .. toctree::
    :maxdepth: 4
 
-   examplepy
+   tool
