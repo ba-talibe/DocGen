@@ -39,6 +39,7 @@ jobs:
           pip install sphinx
           pip install sphinx-rtd-theme
           pip install sphinx_wagtail_theme
+          pip install ghp-import
       - name: Build HTML
         run: | 
           sphinx-apidoc -o docs src/
